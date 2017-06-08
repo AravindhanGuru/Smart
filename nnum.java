@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 public class nnum
 {
-public Static void main(String args[])
+public static void main(String args[])
 {
 Scanner in=new Scanner(System.in);
 int sum=0;
