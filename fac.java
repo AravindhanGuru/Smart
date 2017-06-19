@@ -6,13 +6,13 @@ public class fac
     {
         Scanner in=new Scanner(System.in);
         int n=in.nextInt();
-        int fact=1;
+        int f=1;
         for(int i=1;i<=n;i++)
         {
-            fact=fact*i;
+            f=f*1;
               
             }
-           System.out.println(fact);
+           System.out.println(f);
         
     }
 }
