@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.io.*;
 import java.util.*;
-class ReverseString
+class reverse
 {
     public static void main(String[] args)
     {
