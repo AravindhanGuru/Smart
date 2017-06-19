@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class fac
+public class fact
 {
     public static void main(String args[])
     {
