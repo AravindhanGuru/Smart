@@ -4,7 +4,7 @@
 main(){
 	char *b,t,t1;
 	int j;
-	a=malloc(1000000);
+	b=malloc(1000000);
 	scanf("%s",b);
 	j=0;
 	if(strlen(b)%2!=0){
